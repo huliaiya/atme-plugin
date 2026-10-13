@@ -23,13 +23,7 @@
 
 ```bash
 # GitHub
-git clone --depth=1 https://github.com/cchanlan/atme-plugin.git ./plugins/atme-plugin
-
-# Gitee
-git clone --depth=1 https://gitee.com/longhengmu/atme-plugin.git ./plugins/atme-plugin
-
-# GitCode
-git clone --depth=1 https://gitcode.com/ccxhan/atme-plugin.git ./plugins/atme-plugin
+git clone --depth=1 https://github.com/huliaiya/atme-plugin.git ./plugins/atme-plugin
 ```
 
 **依赖要求**：Node **22.13+**（用内置 `node:sqlite`，无需编译）。
